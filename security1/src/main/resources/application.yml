@@ -32,7 +32,7 @@ spring:
       client:
         registration:
           google: # /oauth2/authorization/google 이 주소를 동작하게 한다.
-            client-id: 
+            client-id: test
             client-secret: 
             scope:
             - email
